@@ -1,0 +1,4 @@
+namespace smol
+{
+
+} // namespace smol
